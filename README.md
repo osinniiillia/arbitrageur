@@ -4,7 +4,7 @@
 <br/>Сравнивает значения best ask и best bid бирж BINANCE и FTX
 
 <br/>Пример запуска 
- > python main.py BTC USDT 
+ > python main.py BTC USDT  
  > docker run osinnii/ticker BTC USDT   
  > docker run 903994d76b01 BTC USDT  
  > > имя образа: 903994d76b01  
