@@ -1,0 +1,9 @@
+BINANCE:
+  api_key: ohEu1Z5TOvbkFTwILTDy99hbHmLWckwDiXIYGz0Yus2qiKgULYhtoAaD7whqIkSe
+  api_secret: 5kZVaHlN8OUaPv9cM0ekG88hwQIlEO68GDMjfEVZbrhAg1AgCEU3uodg71TdM3I6
+  # Принимает значение только True или False
+
+FTX:
+  api_key: tRZZPBc-SW-qW82hG-hef4WhGP4gCEGwDlvqFdQY
+  api_secret: wWFnheGQko9EopctuARdSmiRUr4LCBdE2ihQAijS
+  # Принимает значение только True или False
